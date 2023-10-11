@@ -1,0 +1,36 @@
+.register-header{
+
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    color: white;
+    
+   
+
+}
+
+.register-form{
+    
+    padding-bottom: 20px;
+    z-index: 3;
+}
+
+.register-button{
+    background-color: lightgrey;
+    border-width: 0px;
+    border-radius: 20px;
+    padding: 15px;
+    color: #282c34;
+    width: 100px;
+    margin: 10px;
+}
+
+.error{
+    color:red;
+}
+
+  
